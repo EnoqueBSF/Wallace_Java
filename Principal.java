@@ -1,17 +1,3 @@
-/*
-
-ESTRUTURA DE DADOS - Prof. Walace Sartori
-Raniel da Silva Evangelista - 1910026087
-
-[PROJETO da 1º UNIDADE]
-[Listas e Pilhas, Sequenciais e Encadeadas]
-• Existe uma classe para cada tipo de Lista/Pilha com suas implementações;
-• Estou usando o Modelo de ALUNO que foi visto nas aulas;
-• O codigo está todo comentado para melhor entendimento;
-• Criei uma classe com funcoes que utilizo muito, como Escrever() e Esperar();
-
-*/
-
 import java.util.Scanner;
 
 class Principal {
